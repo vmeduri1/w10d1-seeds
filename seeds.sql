@@ -64,7 +64,7 @@ VALUES
 
 
 INSERT INTO flower_seeds (name, main_color, seeds_per_packet, price_per_packet, in_stock)
-VALUEs
+VALUES
 
 ('Begonia Fiona Red',	'Red',	25,	4.95,	'yes'),
 ('Moonflower Seeds',	'White',	25,	2.95,	'yes'),
@@ -86,4 +86,3 @@ VALUEs
 ('Kabloom Orange Calibrachoa',	'Orange',	10,	4.95,	'yes'),
 ('Fountain Blue Lobelia Seeds',	'Blue',	100,	2.50,	'yes'),
 ('Envy Zinnia Seeds',	'Green',	50,	2.95,	'yes');
-
